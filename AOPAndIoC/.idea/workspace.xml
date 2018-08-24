@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="124cdab6-b1a8-4117-bc2e-bdd48ad936ec" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="aopandioc" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Subject1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/ioc/Subject1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMapTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/hashmap/HashMapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordCount.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/wordTree/WordCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordCountService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/wordTree/WordCountService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayListTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/ListTest/ArrayListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2001">
+              <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/java.util.List" pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/java.util.List">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>java.util.List</OriginalElement>
+              <nodes>
+                <node x="0.0" y="666.0">java.util.List</node>
+                <node x="10.5" y="149.0">java.util.Collection</node>
+                <node x="26.0" y="0.0">java.lang.Iterable</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="java.util.Collection" target="java.lang.Iterable">
+                  <point x="0.0" y="-233.5" />
+                  <point x="0.0" y="49.5" />
+                </edge>
+                <edge source="java.util.List" target="java.util.Collection">
+                  <point x="0.0" y="-337.0" />
+                  <point x="0.0" y="233.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.35294117647058826" x="1660.0" y="941.9999999999999" />
+              <SelectedNodes>
+                <node>java.util.List</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14007">
+              <caret line="655" column="36" selection-start-line="655" selection-start-column="36" selection-end-line="655" selection-end-column="36" />
+              <folding>
+                <element signature="e#19327#19328#0" expanded="true" />
+                <element signature="e#19410#19411#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/util/AbstractMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10695">
+              <caret line="524" column="7" selection-start-line="524" selection-start-column="7" selection-end-line="524" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/java.util.HashMap" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/java.util.HashMap">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>java.util.HashMap</OriginalElement>
+              <nodes>
+                <node x="344.0" y="850.5">java.lang.Cloneable</node>
+                <node x="0.0" y="655.0">java.util.AbstractMap</node>
+                <node x="9.458333333333371" y="0.0">java.util.Map</node>
+                <node x="115.125" y="1126.0">java.util.HashMap</node>
+                <node x="470.0" y="850.5">java.io.Serializable</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="java.util.HashMap" target="java.io.Serializable">
+                  <point x="175.875" y="-555.5" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.util.Map">
+                  <point x="-58.625" y="-555.5" />
+                  <point x="291.0" y="1101.0" />
+                  <point x="333.5" y="1101.0" />
+                  <point x="333.5" y="630.0" />
+                  <point x="361.20833333333337" y="630.0" />
+                  <point x="117.25" y="302.5" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.lang.Cloneable">
+                  <point x="58.625" y="-555.5" />
+                  <point x="408.25" y="1101.0" />
+                  <point x="397.0" y="1101.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="java.util.HashMap" target="java.util.AbstractMap">
+                  <point x="-175.875" y="-555.5" />
+                  <point x="173.75" y="1101.0" />
+                  <point x="161.5" y="1101.0" />
+                  <point x="0.0" y="210.5" />
+                </edge>
+                <edge source="java.util.AbstractMap" target="java.util.Map">
+                  <point x="0.0" y="-210.5" />
+                  <point x="161.5" y="630.0" />
+                  <point x="126.70833333333337" y="630.0" />
+                  <point x="-117.25" y="302.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.21267168808152415" x="292.5" y="1118.5" />
+              <SelectedNodes>
+                <node>java.util.HashMap</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>equals</find>
+      <find>equals(</find>
+      <find>put(Object</find>
+      <find>put(</find>
+      <find>hashCode</find>
+      <find>get</find>
+      <find>get(</find>
+      <find>put</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/aop/Say.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/aop/BeforeSay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/aop/AfterSay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/aop/SayHello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/ioc/Subject2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/config/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/ioc/Subject1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/hashmap/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/wordTree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/wordTree/WordCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/wordTree/WordCountService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zhangcf/ListTest/ArrayListTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="470" />
+    <option name="y" value="46" />
+    <option name="width" value="1125" />
+    <option name="height" value="825" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HashMapTest">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhangcf.App" />
+      <module name="aopandioc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhangcf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhangcf.hashmap.HashMapTest" />
+      <module name="aopandioc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhangcf.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Subject1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhangcf.ioc.Subject1" />
+      <module name="aopandioc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhangcf.ioc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.Subject1" />
+      <item itemvalue="Application.HashMapTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashMapTest" />
+        <item itemvalue="Application.Subject1" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="124cdab6-b1a8-4117-bc2e-bdd48ad936ec" name="Default" comment="" />
+      <created>1534729085647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534729085647</updated>
+      <workItem from="1534729087487" duration="13281000" />
+      <workItem from="1534840703777" duration="205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13486000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4131627" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49675325" weight="0.31315103" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" sideWeight="0.5032467" side_tool="true" weight="0.4334086" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.4369287" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/ioc/Subject1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/hashmap/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/wordTree/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/wordTree/WordCountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/ListTest/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2001">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14007">
+          <caret line="655" column="36" lean-forward="true" selection-start-line="655" selection-start-column="36" selection-end-line="655" selection-end-column="36" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10695">
+          <caret line="524" column="7" lean-forward="true" selection-start-line="524" selection-start-column="7" selection-end-line="524" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.HashMap">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.HashMap</OriginalElement>
+          <nodes>
+            <node x="344.0" y="850.5">java.lang.Cloneable</node>
+            <node x="0.0" y="655.0">java.util.AbstractMap</node>
+            <node x="9.458333333333371" y="0.0">java.util.Map</node>
+            <node x="115.125" y="1126.0">java.util.HashMap</node>
+            <node x="470.0" y="850.5">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.HashMap" target="java.io.Serializable">
+              <point x="175.875" y="-555.5" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.Map">
+              <point x="-58.625" y="-555.5" />
+              <point x="291.0" y="1101.0" />
+              <point x="333.5" y="1101.0" />
+              <point x="333.5" y="630.0" />
+              <point x="361.20833333333337" y="630.0" />
+              <point x="117.25" y="302.5" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.lang.Cloneable">
+              <point x="58.625" y="-555.5" />
+              <point x="408.25" y="1101.0" />
+              <point x="397.0" y="1101.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.AbstractMap">
+              <point x="-175.875" y="-555.5" />
+              <point x="173.75" y="1101.0" />
+              <point x="161.5" y="1101.0" />
+              <point x="0.0" y="210.5" />
+            </edge>
+            <edge source="java.util.AbstractMap" target="java.util.Map">
+              <point x="0.0" y="-210.5" />
+              <point x="161.5" y="630.0" />
+              <point x="126.70833333333337" y="630.0" />
+              <point x="-117.25" y="302.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.21267168808152415" x="292.5" y="1118.5" />
+          <SelectedNodes>
+            <node>java.util.HashMap</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.List">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.List</OriginalElement>
+          <nodes>
+            <node x="0.0" y="666.0">java.util.List</node>
+            <node x="10.5" y="149.0">java.util.Collection</node>
+            <node x="26.0" y="0.0">java.lang.Iterable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-233.5" />
+              <point x="0.0" y="49.5" />
+            </edge>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-337.0" />
+              <point x="0.0" y="233.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.35294117647058826" x="1660.0" y="941.9999999999999" />
+          <SelectedNodes>
+            <node>java.util.List</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.String">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.String</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.CharSequence</node>
+            <node x="" y="">java.lang.Comparable</node>
+            <node x="" y="">java.lang.String</node>
+            <node x="" y="">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="202.0" y="55.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/ioc/Subject2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/aop/AfterSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/aop/BeforeSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/aop/SayHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/aop/Say.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/config/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.Object">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.Object</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">java.lang.Object</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-484.0" y="-81.0" />
+          <SelectedNodes>
+            <node>java.lang.Object</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1043">
+          <caret line="99" column="30" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="975" column="27" lean-forward="true" selection-start-line="975" selection-start-column="27" selection-end-line="975" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="128" column="18" selection-start-line="128" selection-start-column="18" selection-end-line="128" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.Map">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Map</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">java.util.Map</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-166.0" y="205.0" />
+          <SelectedNodes>
+            <node>java.util.Map</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10695">
+          <caret line="524" column="7" selection-start-line="524" selection-start-column="7" selection-end-line="524" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.HashMap">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.HashMap</OriginalElement>
+          <nodes>
+            <node x="344.0" y="850.5">java.lang.Cloneable</node>
+            <node x="0.0" y="655.0">java.util.AbstractMap</node>
+            <node x="9.458333333333371" y="0.0">java.util.Map</node>
+            <node x="115.125" y="1126.0">java.util.HashMap</node>
+            <node x="470.0" y="850.5">java.io.Serializable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.HashMap" target="java.io.Serializable">
+              <point x="175.875" y="-555.5" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.Map">
+              <point x="-58.625" y="-555.5" />
+              <point x="291.0" y="1101.0" />
+              <point x="333.5" y="1101.0" />
+              <point x="333.5" y="630.0" />
+              <point x="361.20833333333337" y="630.0" />
+              <point x="117.25" y="302.5" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.lang.Cloneable">
+              <point x="58.625" y="-555.5" />
+              <point x="408.25" y="1101.0" />
+              <point x="397.0" y="1101.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.util.HashMap" target="java.util.AbstractMap">
+              <point x="-175.875" y="-555.5" />
+              <point x="173.75" y="1101.0" />
+              <point x="161.5" y="1101.0" />
+              <point x="0.0" y="210.5" />
+            </edge>
+            <edge source="java.util.AbstractMap" target="java.util.Map">
+              <point x="0.0" y="-210.5" />
+              <point x="161.5" y="630.0" />
+              <point x="126.70833333333337" y="630.0" />
+              <point x="-117.25" y="302.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.21267168808152415" x="292.5" y="1118.5" />
+          <SelectedNodes>
+            <node>java.util.HashMap</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14007">
+          <caret line="655" column="36" selection-start-line="655" selection-start-column="36" selection-end-line="655" selection-end-column="36" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/ioc/Subject1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/wordTree/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/hashmap/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/wordTree/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/wordTree/WordCountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zhangcf/ListTest/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_151/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2001">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.List">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.List</OriginalElement>
+          <nodes>
+            <node x="0.0" y="666.0">java.util.List</node>
+            <node x="10.5" y="149.0">java.util.Collection</node>
+            <node x="26.0" y="0.0">java.lang.Iterable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.Collection" target="java.lang.Iterable">
+              <point x="0.0" y="-233.5" />
+              <point x="0.0" y="49.5" />
+            </edge>
+            <edge source="java.util.List" target="java.util.Collection">
+              <point x="0.0" y="-337.0" />
+              <point x="0.0" y="233.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.35294117647058826" x="1660.0" y="941.9999999999999" />
+          <SelectedNodes>
+            <node>java.util.List</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

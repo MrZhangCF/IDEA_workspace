@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Spring MVC" type="spring-mvc">
+    <CLASSES>
+      <root url="jar://D:/mylib/spring/commons-logging-1.1.3.jar!/" />
+      <root url="jar://D:/mylib/spring/jstl-1.2.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-aop-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-aspects-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-beans-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-context-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-context-support-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-core-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-expression-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-instrument-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-jdbc-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-jms-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-messaging-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-orm-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-oxm-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-test-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-tx-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-web-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-webmvc-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/spring-websocket-5.0.5.RELEASE.jar!/" />
+      <root url="jar://D:/mylib/spring/standard-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
